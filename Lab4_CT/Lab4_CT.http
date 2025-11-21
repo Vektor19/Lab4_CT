@@ -1,6 +1,0 @@
-@Lab4_CT_HostAddress = http://localhost:5101
-
-GET {{Lab4_CT_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
